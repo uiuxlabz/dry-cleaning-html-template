@@ -67,6 +67,10 @@ dry-cleaning-html-template/
 3. Replace images in `assets/img/` with your own content
 4. Edit text, pricing, and contact details directly in the HTML files
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Design System Tokens
 
 ```css
